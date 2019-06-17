@@ -1,0 +1,28 @@
+Order,Predacious
+Acari,N
+Annelida,N
+Aranea,Y
+Blattodea,N
+Coleoptera,FAMILY_LEVEL
+Collembola,N
+Dermaptera,Y
+Diptera,FAMILY_LEVEL
+Ephemeroptera,N
+Gastropoda,N
+Hemiptera,FAMILY_LEVEL
+Hemiptera - Homoptera,N
+Hymenoptera,N
+Hymenoptera - Ant,N
+Hymenoptera - Bee,N
+Hymenoptera - Wasp,SIZE-BASED
+Isopoda,N
+Lepidoptera,N
+Lithobiomorpha,Y
+Neuroptera,Y
+Opiliones,Y
+Orthoptera,N
+Psocoptera,N
+Spirobolida,N
+Thysanoptera,N
+Trichoptera,N
+Zygentoma,N
